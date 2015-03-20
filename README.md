@@ -33,6 +33,10 @@ urlQrcode.print();
 $ local-url-qrcode
 ```
 
+## Screenshot
+
+![Example of URL as QR code output to terminal](http://i.imgur.com/4DcCXmF.png)
+
 ## License
 
 Licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
