@@ -24,7 +24,7 @@ npm install -g WickyNilliams/local-url-qrcode
 
 ```js
 var urlQrcode = require("local-url-qrcode");
-urlQrCode.print();
+urlQrcode.print();
 ```
 
 ### Terminal
