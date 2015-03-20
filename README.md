@@ -12,10 +12,10 @@ I haven't published to npm yet, so instead install direct from github:
 
 ```bash
 # install locally to use API
-npm install WickyNilliams/local-url-qrcode --save[-dev]
+npm install local-url-qrcode --save[-dev]
 
 # install globally to use in terminal
-npm install -g WickyNilliams/local-url-qrcode
+npm install -g local-url-qrcode
 ```
 
 ## Usage
