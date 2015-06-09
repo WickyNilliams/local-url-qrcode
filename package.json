@@ -1,6 +1,6 @@
 {
   "name": "local-url-qrcode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Print URL of your local IP to terminal as a QR code",
   "keywords": ["url", "terminal", "local-ip", "qrcode"],
   "main": "./lib/index.js",

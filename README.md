@@ -8,13 +8,13 @@ I don't have static local IP. I often want to open a website on my phone during 
 
 ## Installation
 
-I haven't published to npm yet, so instead install direct from github:
+Install via npm:
 
 ```bash
 # install locally to use API
 npm install local-url-qrcode --save[-dev]
 
-# install globally to use in terminal
+# install globally to use in CLI via terminal
 npm install -g local-url-qrcode
 ```
 
@@ -30,13 +30,13 @@ urlQrcode.print();
 ### Terminal
 
 ```bash
-$ local-url-qrcode
+local-url-qrcode
 ```
 
 Port can be supplied as an optional argument:
 
 ```bash
-$ local-url-qrcode 4000
+local-url-qrcode 4000
 ```
 
 ## Screenshot
