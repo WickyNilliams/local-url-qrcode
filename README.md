@@ -33,6 +33,12 @@ urlQrcode.print();
 $ local-url-qrcode
 ```
 
+Port can be supplied as an optional argument:
+
+```bash
+$ local-url-qrcode 4000
+```
+
 ## Screenshot
 
 ![Example of URL as QR code output to terminal](http://i.imgur.com/4DcCXmF.png)
